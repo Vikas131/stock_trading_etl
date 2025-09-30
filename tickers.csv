@@ -1,3 +1,0 @@
-ticker,name,market,locale,primary_exchange,type,active,currency_name,cik,composite_figi,share_class_figi,last_updated_utc
-A,Agilent Technologies Inc.,stocks,us,XNYS,CS,True,usd,0001090872,BBG000C2V3D6,BBG001SCTQY4,2025-09-30T06:05:29.844698933Z
-AA,Alcoa Corporation,stocks,us,XNYS,CS,True,usd,0001675149,BBG00B3T3HD3,BBG00B3T3HF1,2025-09-30T06:05:29.844699555Z
