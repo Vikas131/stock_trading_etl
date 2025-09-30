@@ -1,2 +1,3 @@
 pythonvenv/
 .env
+tickers.csv
